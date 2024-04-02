@@ -1,0 +1,27 @@
+[0.510s] Invoking command in '/home/nida/Desktop/task2_ws/src/task2_pkg': PYTHONPATH=/home/nida/Desktop/task2_ws/build/task2_pkg/prefix_override:/home/nida/Desktop/task2_ws/install/task2_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/task2_pkg build --build-base /home/nida/Desktop/task2_ws/build/task2_pkg/build install --record /home/nida/Desktop/task2_ws/build/task2_pkg/install.log --single-version-externally-managed
+[0.664s] running egg_info
+[0.664s] writing ../../build/task2_pkg/task2_pkg.egg-info/PKG-INFO
+[0.665s] writing dependency_links to ../../build/task2_pkg/task2_pkg.egg-info/dependency_links.txt
+[0.665s] writing entry points to ../../build/task2_pkg/task2_pkg.egg-info/entry_points.txt
+[0.665s] writing requirements to ../../build/task2_pkg/task2_pkg.egg-info/requires.txt
+[0.665s] writing top-level names to ../../build/task2_pkg/task2_pkg.egg-info/top_level.txt
+[0.666s] reading manifest file '../../build/task2_pkg/task2_pkg.egg-info/SOURCES.txt'
+[0.667s] writing manifest file '../../build/task2_pkg/task2_pkg.egg-info/SOURCES.txt'
+[0.667s] running build
+[0.667s] running build_py
+[0.667s] copying task2_pkg/shapes_subscriber.py -> /home/nida/Desktop/task2_ws/build/task2_pkg/build/lib/task2_pkg
+[0.667s] running install
+[0.667s] running install_lib
+[0.668s] copying /home/nida/Desktop/task2_ws/build/task2_pkg/build/lib/task2_pkg/shapes_subscriber.py -> /home/nida/Desktop/task2_ws/install/task2_pkg/lib/python3.10/site-packages/task2_pkg
+[0.668s] byte-compiling /home/nida/Desktop/task2_ws/install/task2_pkg/lib/python3.10/site-packages/task2_pkg/shapes_subscriber.py to shapes_subscriber.cpython-310.pyc
+[0.669s] running install_data
+[0.669s] running install_egg_info
+[0.670s] removing '/home/nida/Desktop/task2_ws/install/task2_pkg/lib/python3.10/site-packages/task2_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.670s] Copying ../../build/task2_pkg/task2_pkg.egg-info to /home/nida/Desktop/task2_ws/install/task2_pkg/lib/python3.10/site-packages/task2_pkg-0.0.0-py3.10.egg-info
+[0.671s] running install_scripts
+[0.686s] Installing circle_node script to /home/nida/Desktop/task2_ws/install/task2_pkg/lib/task2_pkg
+[0.686s] Installing ellipse_node script to /home/nida/Desktop/task2_ws/install/task2_pkg/lib/task2_pkg
+[0.686s] Installing rectangle_node script to /home/nida/Desktop/task2_ws/install/task2_pkg/lib/task2_pkg
+[0.686s] Installing triangle_node script to /home/nida/Desktop/task2_ws/install/task2_pkg/lib/task2_pkg
+[0.686s] writing list of installed files to '/home/nida/Desktop/task2_ws/build/task2_pkg/install.log'
+[0.701s] Invoked command in '/home/nida/Desktop/task2_ws/src/task2_pkg' returned '0': PYTHONPATH=/home/nida/Desktop/task2_ws/build/task2_pkg/prefix_override:/home/nida/Desktop/task2_ws/install/task2_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/task2_pkg build --build-base /home/nida/Desktop/task2_ws/build/task2_pkg/build install --record /home/nida/Desktop/task2_ws/build/task2_pkg/install.log --single-version-externally-managed

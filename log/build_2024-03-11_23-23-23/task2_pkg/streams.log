@@ -1,0 +1,33 @@
+[0.503s] Invoking command in '/home/nida/Desktop/task2_ws/src/task2_pkg': PYTHONPATH=/home/nida/Desktop/task2_ws/build/task2_pkg/prefix_override:/home/nida/Desktop/task2_ws/install/task2_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/task2_pkg build --build-base /home/nida/Desktop/task2_ws/build/task2_pkg/build install --record /home/nida/Desktop/task2_ws/build/task2_pkg/install.log --single-version-externally-managed
+[0.663s] running egg_info
+[0.663s] creating ../../build/task2_pkg/task2_pkg.egg-info
+[0.663s] writing ../../build/task2_pkg/task2_pkg.egg-info/PKG-INFO
+[0.663s] writing dependency_links to ../../build/task2_pkg/task2_pkg.egg-info/dependency_links.txt
+[0.663s] writing entry points to ../../build/task2_pkg/task2_pkg.egg-info/entry_points.txt
+[0.663s] writing requirements to ../../build/task2_pkg/task2_pkg.egg-info/requires.txt
+[0.663s] writing top-level names to ../../build/task2_pkg/task2_pkg.egg-info/top_level.txt
+[0.664s] writing manifest file '../../build/task2_pkg/task2_pkg.egg-info/SOURCES.txt'
+[0.665s] reading manifest file '../../build/task2_pkg/task2_pkg.egg-info/SOURCES.txt'
+[0.665s] writing manifest file '../../build/task2_pkg/task2_pkg.egg-info/SOURCES.txt'
+[0.665s] running build
+[0.665s] running build_py
+[0.665s] creating /home/nida/Desktop/task2_ws/build/task2_pkg/build
+[0.665s] creating /home/nida/Desktop/task2_ws/build/task2_pkg/build/lib
+[0.665s] creating /home/nida/Desktop/task2_ws/build/task2_pkg/build/lib/task2_pkg
+[0.665s] copying task2_pkg/__init__.py -> /home/nida/Desktop/task2_ws/build/task2_pkg/build/lib/task2_pkg
+[0.665s] running install
+[0.665s] running install_lib
+[0.666s] creating /home/nida/Desktop/task2_ws/install/task2_pkg/lib/python3.10/site-packages/task2_pkg
+[0.666s] copying /home/nida/Desktop/task2_ws/build/task2_pkg/build/lib/task2_pkg/__init__.py -> /home/nida/Desktop/task2_ws/install/task2_pkg/lib/python3.10/site-packages/task2_pkg
+[0.666s] byte-compiling /home/nida/Desktop/task2_ws/install/task2_pkg/lib/python3.10/site-packages/task2_pkg/__init__.py to __init__.cpython-310.pyc
+[0.666s] running install_data
+[0.667s] creating /home/nida/Desktop/task2_ws/install/task2_pkg/share/ament_index
+[0.667s] creating /home/nida/Desktop/task2_ws/install/task2_pkg/share/ament_index/resource_index
+[0.667s] creating /home/nida/Desktop/task2_ws/install/task2_pkg/share/ament_index/resource_index/packages
+[0.667s] copying resource/task2_pkg -> /home/nida/Desktop/task2_ws/install/task2_pkg/share/ament_index/resource_index/packages
+[0.667s] copying package.xml -> /home/nida/Desktop/task2_ws/install/task2_pkg/share/task2_pkg
+[0.667s] running install_egg_info
+[0.668s] Copying ../../build/task2_pkg/task2_pkg.egg-info to /home/nida/Desktop/task2_ws/install/task2_pkg/lib/python3.10/site-packages/task2_pkg-0.0.0-py3.10.egg-info
+[0.668s] running install_scripts
+[0.681s] writing list of installed files to '/home/nida/Desktop/task2_ws/build/task2_pkg/install.log'
+[0.696s] Invoked command in '/home/nida/Desktop/task2_ws/src/task2_pkg' returned '0': PYTHONPATH=/home/nida/Desktop/task2_ws/build/task2_pkg/prefix_override:/home/nida/Desktop/task2_ws/install/task2_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/task2_pkg build --build-base /home/nida/Desktop/task2_ws/build/task2_pkg/build install --record /home/nida/Desktop/task2_ws/build/task2_pkg/install.log --single-version-externally-managed

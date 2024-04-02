@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/task2_pkg/task2_pkg.egg-info
+writing ../../build/task2_pkg/task2_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/task2_pkg/task2_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/task2_pkg/task2_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/task2_pkg/task2_pkg.egg-info/requires.txt
+writing top-level names to ../../build/task2_pkg/task2_pkg.egg-info/top_level.txt
+writing manifest file '../../build/task2_pkg/task2_pkg.egg-info/SOURCES.txt'
+reading manifest file '../../build/task2_pkg/task2_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/task2_pkg/task2_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/nida/Desktop/task2_ws/build/task2_pkg/build
+creating /home/nida/Desktop/task2_ws/build/task2_pkg/build/lib
+creating /home/nida/Desktop/task2_ws/build/task2_pkg/build/lib/task2_pkg
+copying task2_pkg/__init__.py -> /home/nida/Desktop/task2_ws/build/task2_pkg/build/lib/task2_pkg
+running install
+running install_lib
+creating /home/nida/Desktop/task2_ws/install/task2_pkg/lib/python3.10/site-packages/task2_pkg
+copying /home/nida/Desktop/task2_ws/build/task2_pkg/build/lib/task2_pkg/__init__.py -> /home/nida/Desktop/task2_ws/install/task2_pkg/lib/python3.10/site-packages/task2_pkg
+byte-compiling /home/nida/Desktop/task2_ws/install/task2_pkg/lib/python3.10/site-packages/task2_pkg/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/nida/Desktop/task2_ws/install/task2_pkg/share/ament_index
+creating /home/nida/Desktop/task2_ws/install/task2_pkg/share/ament_index/resource_index
+creating /home/nida/Desktop/task2_ws/install/task2_pkg/share/ament_index/resource_index/packages
+copying resource/task2_pkg -> /home/nida/Desktop/task2_ws/install/task2_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/nida/Desktop/task2_ws/install/task2_pkg/share/task2_pkg
+running install_egg_info
+Copying ../../build/task2_pkg/task2_pkg.egg-info to /home/nida/Desktop/task2_ws/install/task2_pkg/lib/python3.10/site-packages/task2_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/nida/Desktop/task2_ws/build/task2_pkg/install.log'

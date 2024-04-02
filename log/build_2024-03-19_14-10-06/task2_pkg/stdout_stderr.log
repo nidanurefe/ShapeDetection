@@ -1,0 +1,28 @@
+running egg_info
+writing ../../build/task2_pkg/task2_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/task2_pkg/task2_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/task2_pkg/task2_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/task2_pkg/task2_pkg.egg-info/requires.txt
+writing top-level names to ../../build/task2_pkg/task2_pkg.egg-info/top_level.txt
+reading manifest file '../../build/task2_pkg/task2_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/task2_pkg/task2_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+copying task2_pkg/circle_publisher.py -> /home/nida/Desktop/ROV/task2_ws/build/task2_pkg/build/lib/task2_pkg
+copying task2_pkg/shapes_subscriber.py -> /home/nida/Desktop/ROV/task2_ws/build/task2_pkg/build/lib/task2_pkg
+running install
+running install_lib
+copying /home/nida/Desktop/ROV/task2_ws/build/task2_pkg/build/lib/task2_pkg/circle_publisher.py -> /home/nida/Desktop/ROV/task2_ws/install/task2_pkg/lib/python3.10/site-packages/task2_pkg
+copying /home/nida/Desktop/ROV/task2_ws/build/task2_pkg/build/lib/task2_pkg/shapes_subscriber.py -> /home/nida/Desktop/ROV/task2_ws/install/task2_pkg/lib/python3.10/site-packages/task2_pkg
+byte-compiling /home/nida/Desktop/ROV/task2_ws/install/task2_pkg/lib/python3.10/site-packages/task2_pkg/circle_publisher.py to circle_publisher.cpython-310.pyc
+byte-compiling /home/nida/Desktop/ROV/task2_ws/install/task2_pkg/lib/python3.10/site-packages/task2_pkg/shapes_subscriber.py to shapes_subscriber.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/nida/Desktop/ROV/task2_ws/install/task2_pkg/lib/python3.10/site-packages/task2_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/task2_pkg/task2_pkg.egg-info to /home/nida/Desktop/ROV/task2_ws/install/task2_pkg/lib/python3.10/site-packages/task2_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing circle_node script to /home/nida/Desktop/ROV/task2_ws/install/task2_pkg/lib/task2_pkg
+Installing ellipse_node script to /home/nida/Desktop/ROV/task2_ws/install/task2_pkg/lib/task2_pkg
+Installing rectangle_node script to /home/nida/Desktop/ROV/task2_ws/install/task2_pkg/lib/task2_pkg
+Installing triangle_node script to /home/nida/Desktop/ROV/task2_ws/install/task2_pkg/lib/task2_pkg
+writing list of installed files to '/home/nida/Desktop/ROV/task2_ws/build/task2_pkg/install.log'

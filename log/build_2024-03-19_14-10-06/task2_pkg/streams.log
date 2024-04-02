@@ -1,0 +1,30 @@
+[0.899s] Invoking command in '/home/nida/Desktop/ROV/task2_ws/src/task2_pkg': PYTHONPATH=/home/nida/Desktop/ROV/task2_ws/build/task2_pkg/prefix_override:/home/nida/Desktop/ROV/task2_ws/install/task2_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/task2_pkg build --build-base /home/nida/Desktop/ROV/task2_ws/build/task2_pkg/build install --record /home/nida/Desktop/ROV/task2_ws/build/task2_pkg/install.log --single-version-externally-managed install_data
+[1.251s] running egg_info
+[1.251s] writing ../../build/task2_pkg/task2_pkg.egg-info/PKG-INFO
+[1.251s] writing dependency_links to ../../build/task2_pkg/task2_pkg.egg-info/dependency_links.txt
+[1.251s] writing entry points to ../../build/task2_pkg/task2_pkg.egg-info/entry_points.txt
+[1.251s] writing requirements to ../../build/task2_pkg/task2_pkg.egg-info/requires.txt
+[1.251s] writing top-level names to ../../build/task2_pkg/task2_pkg.egg-info/top_level.txt
+[1.252s] reading manifest file '../../build/task2_pkg/task2_pkg.egg-info/SOURCES.txt'
+[1.255s] writing manifest file '../../build/task2_pkg/task2_pkg.egg-info/SOURCES.txt'
+[1.255s] running build
+[1.255s] running build_py
+[1.255s] copying task2_pkg/circle_publisher.py -> /home/nida/Desktop/ROV/task2_ws/build/task2_pkg/build/lib/task2_pkg
+[1.255s] copying task2_pkg/shapes_subscriber.py -> /home/nida/Desktop/ROV/task2_ws/build/task2_pkg/build/lib/task2_pkg
+[1.256s] running install
+[1.256s] running install_lib
+[1.256s] copying /home/nida/Desktop/ROV/task2_ws/build/task2_pkg/build/lib/task2_pkg/circle_publisher.py -> /home/nida/Desktop/ROV/task2_ws/install/task2_pkg/lib/python3.10/site-packages/task2_pkg
+[1.256s] copying /home/nida/Desktop/ROV/task2_ws/build/task2_pkg/build/lib/task2_pkg/shapes_subscriber.py -> /home/nida/Desktop/ROV/task2_ws/install/task2_pkg/lib/python3.10/site-packages/task2_pkg
+[1.258s] byte-compiling /home/nida/Desktop/ROV/task2_ws/install/task2_pkg/lib/python3.10/site-packages/task2_pkg/circle_publisher.py to circle_publisher.cpython-310.pyc
+[1.259s] byte-compiling /home/nida/Desktop/ROV/task2_ws/install/task2_pkg/lib/python3.10/site-packages/task2_pkg/shapes_subscriber.py to shapes_subscriber.cpython-310.pyc
+[1.259s] running install_data
+[1.259s] running install_egg_info
+[1.261s] removing '/home/nida/Desktop/ROV/task2_ws/install/task2_pkg/lib/python3.10/site-packages/task2_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[1.261s] Copying ../../build/task2_pkg/task2_pkg.egg-info to /home/nida/Desktop/ROV/task2_ws/install/task2_pkg/lib/python3.10/site-packages/task2_pkg-0.0.0-py3.10.egg-info
+[1.262s] running install_scripts
+[1.287s] Installing circle_node script to /home/nida/Desktop/ROV/task2_ws/install/task2_pkg/lib/task2_pkg
+[1.287s] Installing ellipse_node script to /home/nida/Desktop/ROV/task2_ws/install/task2_pkg/lib/task2_pkg
+[1.287s] Installing rectangle_node script to /home/nida/Desktop/ROV/task2_ws/install/task2_pkg/lib/task2_pkg
+[1.287s] Installing triangle_node script to /home/nida/Desktop/ROV/task2_ws/install/task2_pkg/lib/task2_pkg
+[1.287s] writing list of installed files to '/home/nida/Desktop/ROV/task2_ws/build/task2_pkg/install.log'
+[1.304s] Invoked command in '/home/nida/Desktop/ROV/task2_ws/src/task2_pkg' returned '0': PYTHONPATH=/home/nida/Desktop/ROV/task2_ws/build/task2_pkg/prefix_override:/home/nida/Desktop/ROV/task2_ws/install/task2_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/task2_pkg build --build-base /home/nida/Desktop/ROV/task2_ws/build/task2_pkg/build install --record /home/nida/Desktop/ROV/task2_ws/build/task2_pkg/install.log --single-version-externally-managed install_data

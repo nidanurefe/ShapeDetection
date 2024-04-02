@@ -1,0 +1,6 @@
+[console_scripts]
+circle_node = task2_pkg.circle_publisher:main
+ellipse_node = task2_pkg.ellipse_publisher:main
+rectangle_node = task2_pkg.rectangle_publisher:main
+triangle_node = task2_pkg.triangle_publisher:main
+
