@@ -15,9 +15,9 @@ ROS2: Install ROS 2 Humble.
 Launch each shaoe node individually using ROS 2 launch files.  
 
 **Packages**
-shapes_msgs: Contains custom message definitions for different shapes. »
-ellipse_publisher: Publishes ellipse messages. »
-triangle_publisher: Publishes triangle messages.
+shapes_msgs: Contains custom message definitions for different shapes.  <pre>
+ellipse_publisher: Publishes ellipse messages. <pre>
+triangle_publisher: Publishes triangle messages. <pre>
 circle_publisher: Publishes circle messages.
 rectangle_publisher: Publishes rectangle messages.
 shapes_subscriber: Subscribes to shape publishers.
